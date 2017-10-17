@@ -1,0 +1,2 @@
+# hopverkefnid
+Hópverkefni fyrir Foobar
