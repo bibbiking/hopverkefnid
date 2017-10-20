@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 html {
   /* stylelint-disable-line */
   margin-right: 20px;
@@ -57,3 +58,17 @@ main {
   .nbar__rel {
     max-width: 1200px;
     margin: auto; }
+=======
+@charset "UTF-8";
+/* setjum box-sizing: border-box; á allt */
+html {
+  /* stylelint-disable-line */
+  box-sizing: border-box; }
+
+*, *:before, *:after {
+  /* stylelint-disable-line */
+  box-sizing: inherit;
+  /* fjarlægjum margin og padding */
+  padding: 0;
+  margin: 0; }
+>>>>>>> 5f13adb20cee98d447ca8d533ce510125570476b
